@@ -1,0 +1,1 @@
+Solve the mountain car problem for discrete actions (move left, move right, stall). The algorithm of choice is REINFORCE, a policy gradient method where a neural net is used to represent a parametrized version of the policy. Built using PyTorch, no other external source libs were used.
